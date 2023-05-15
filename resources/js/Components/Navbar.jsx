@@ -19,7 +19,7 @@ const Navbar = ({ user }) => {
                 avatarStyle='Transparent'
                 topType='ShortHairDreads01'
                 accessoriesType='Sunglasses'
-                hairColor='Yellow'
+                hairColor='Red'
                 facialHairType='MoustacheFancy'
                 facialHairColor='Red'
                 clotheType='Hoodie'
